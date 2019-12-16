@@ -1,0 +1,24 @@
+<component name="libraryTable">
+  <library name="Java EE 6-Java EE 6">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/javax.persistence.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/javax.jms.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/javax.annotation.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/javax.ejb.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/javax.transaction.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/javax.resource.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/javax.servlet.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/javax.servlet.jsp.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/javax.servlet.jsp.jstl.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/mysql-connector-java-8.0.13.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../代码交流/英文词频统计器2/英文词频统计器/libs/jstl-1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../代码交流/英文词频统计器2/英文词频统计器/libs/itextpdf-5.5.8.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../代码交流/英文词频统计器2/英文词频统计器/libs/poi-ooxml-3.17.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../代码交流/英文词频统计器2/英文词频统计器/libs/poi-3.17.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../代码交流/英文词频统计器2/英文词频统计器/libs/poi-scratchpad-3.17.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../代码交流/英文词频统计器2/英文词频统计器/libs/xmlbeans-2.6.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
